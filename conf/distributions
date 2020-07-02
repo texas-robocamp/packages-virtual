@@ -1,0 +1,7 @@
+Origin: Texas RoboCamp 2020
+Label: Texas RoboCamp 2020
+Codename: bionic
+Architectures: amd64 source
+Components: main
+Description: Packages for Texas RoboCamp 2020
+SignWith: 4F96EF95D295866724CAEEDA0540E766C789458D

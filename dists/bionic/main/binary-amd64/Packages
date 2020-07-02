@@ -1,0 +1,30 @@
+Package: ros-melodic-texas-robocamp
+Version: 0.0.0bionic
+Architecture: amd64
+Maintainer: Texas RoboCamp 2020 <hart@cs.utexas.edu>
+Installed-Size: 31
+Depends: gazebo9 (>= 9.13.0), libeigen3-dev, libgtk-3-dev, libncurses5-dev, ros-melodic-cv-bridge, ros-melodic-gazebo-ros, ros-melodic-roscpp, ros-melodic-rospy
+Priority: optional
+Section: misc
+Filename: pool/main/r/ros-melodic-texas-robocamp/ros-melodic-texas-robocamp_0.0.0bionic_amd64.deb
+Size: 5236
+SHA256: 38c6679eb578ddbb8629196a64e36e0ae75d5db54340349dd6767e22e7602877
+SHA1: c2f95cfd29867241f163b81a53947b39711bd53d
+MD5sum: 320fa8b99f522ae9bd9fd64b9501aea6
+Description: System code for Texas RoboCamp
+
+Package: ros-melodic-texas-robocamp-full
+Version: 1.1.0bionic
+Architecture: all
+Maintainer: Texas RoboCamp 2020 <hart@cs.utexas.edu>
+Installed-Size: 7
+Depends: ros-melodic-desktop-full, ros-melodic-texas-robocamp, code, terminator, python-catkin-tools | python3-catkin-tools
+Priority: optional
+Section: misc
+Filename: pool/main/r/ros-melodic-texas-robocamp-full/ros-melodic-texas-robocamp-full_1.1.0bionic_all.deb
+Size: 1188
+SHA256: d7571d8e4051776a656c86591d960989f9710b943e1c547235e4a451c22d51cb
+SHA1: 89c206b99fdae944487b800e246b20cc0a2a20c6
+MD5sum: bf788ddcb32dbe888588fc10f06fee0e
+Description: All recommended packages for Texas RoboCamp 2020
+
