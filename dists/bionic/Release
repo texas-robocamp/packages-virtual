@@ -1,27 +1,27 @@
 Origin: Texas RoboCamp 2020
 Label: Texas RoboCamp 2020
 Codename: bionic
-Date: Wed, 01 Jul 2020 17:08:06 UTC
+Date: Sat, 04 Jul 2020 01:01:42 UTC
 Architectures: amd64
 Components: main
 Description: Packages for Texas RoboCamp 2020
 MD5Sum:
- 5185b18df56fe0f668887db5fa925030 1307 main/binary-amd64/Packages
- 6cc84a101de28e37473651bc10ea82a4 627 main/binary-amd64/Packages.gz
+ 1f879c4a4ae9ddb5ee9066fa61028716 1576 main/binary-amd64/Packages
+ 7b1dd194c1038eb8efade8f82bd2ce2d 744 main/binary-amd64/Packages.gz
  5b133034f7bac69d3793cd6a778ec22e 137 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  80605aa2627a793c49a26f515429b18f 138 main/source/Release
 SHA1:
- c5a2860831ae6bb370aa71a5127da14fbbb6d131 1307 main/binary-amd64/Packages
- 3da7295ff8ad2fdbff213d0fb5c6487ca1f89740 627 main/binary-amd64/Packages.gz
+ 223716dd30fe8b7f0b5d797882694d7f2234f75a 1576 main/binary-amd64/Packages
+ 6ec25b32476e9ac995ecf9959050a52a23e5d5d2 744 main/binary-amd64/Packages.gz
  5b324e1ca8bcb1ab3112ee4cb923c2597007b3dd 137 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  f7c41b953c970a7f3589fcba3c01b8e5bb9cbcfb 138 main/source/Release
 SHA256:
- 46a120e52d5942e4b41ecb80f718c961f166ced6306f9bb140cdb534c8221ca2 1307 main/binary-amd64/Packages
- 085126bf1bc8637d2626502e3eb4f388059c0d1c14a8973cfc6f2e8753214088 627 main/binary-amd64/Packages.gz
+ 47c8a3ee90ef131a4ff1af5c3a33ffd23d628205db2579df43be58340eed5667 1576 main/binary-amd64/Packages
+ e388faeaae1fc67ededceafeaf10db09122b0b73126d9b0ac545f7dac7ba83ec 744 main/binary-amd64/Packages.gz
  a31594f474c3187ea6c85eb514d2b6544935e66e9434d1a831c2d29abe640d07 137 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
