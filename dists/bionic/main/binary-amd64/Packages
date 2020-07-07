@@ -14,17 +14,17 @@ MD5sum: ba5b426364f88c6ccdab68af0bdc601c
 Description: System code for Texas RoboCamp
 
 Package: ros-melodic-texas-robocamp-full
-Version: 1.2.0bionic
+Version: 1.2.1bionic
 Architecture: all
 Maintainer: Texas RoboCamp 2020 <hart@cs.utexas.edu>
 Installed-Size: 7
-Depends: ros-melodic-desktop-full, ros-melodic-texas-robocamp, code, terminator, python3-catkin-tools | python-catkin-tools, python3-rosdep2 | python-rosdep2 | python3-rosdep | python-rosdep
+Depends: ros-melodic-desktop-full, ros-melodic-texas-robocamp, code, terminator, python-catkin-tools, python-rosdep
 Priority: optional
 Section: misc
-Filename: pool/main/r/ros-melodic-texas-robocamp-full/ros-melodic-texas-robocamp-full_1.2.0bionic_all.deb
-Size: 1228
-SHA256: 4465723555ddf49476685fe1abd41a94cd0531f2e64721335fb3641f5f47eb29
-SHA1: d793532931e09a11379787d0db30f2175ae27df9
-MD5sum: 8ce2e85f721f79b26a5e90ee6c3be1c0
+Filename: pool/main/r/ros-melodic-texas-robocamp-full/ros-melodic-texas-robocamp-full_1.2.1bionic_all.deb
+Size: 1240
+SHA256: 49992d7b086e36d34ecd248e89def012fe12be432788175ad74e55d41e9e1f00
+SHA1: ad117010b594ac6d67e39a007509696694681957
+MD5sum: 6c5f13477f2dc1fe1332f66ef8761d99
 Description: All recommended packages for Texas RoboCamp 2020
 

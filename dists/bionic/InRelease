@@ -4,42 +4,42 @@ Hash: SHA512
 Origin: Texas RoboCamp 2020
 Label: Texas RoboCamp 2020
 Codename: bionic
-Date: Tue, 07 Jul 2020 16:13:03 UTC
+Date: Tue, 07 Jul 2020 19:12:01 UTC
 Architectures: amd64
 Components: main
 Description: Packages for Texas RoboCamp 2020
 MD5Sum:
- bdd75ea4ddb8e5dff188adf6f132076f 1643 main/binary-amd64/Packages
- 2ad632b5c5c490e81d39d03d661907b8 760 main/binary-amd64/Packages.gz
+ 9d11ec937bd68b734944ffd26967cb92 1568 main/binary-amd64/Packages
+ e08426a69d9edb96f1366b56014e56e8 745 main/binary-amd64/Packages.gz
  5b133034f7bac69d3793cd6a778ec22e 137 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  80605aa2627a793c49a26f515429b18f 138 main/source/Release
 SHA1:
- df4260d144a43686c4058f14017a4e05d0b078be 1643 main/binary-amd64/Packages
- 5078077637dae897f07e20578af543ab2e68ac67 760 main/binary-amd64/Packages.gz
+ efa6c9b6cd0a4d8273688a9f9a34580173b15f55 1568 main/binary-amd64/Packages
+ 222df3dd906ddc3a36bcbc42ff0233a6fbb78ffe 745 main/binary-amd64/Packages.gz
  5b324e1ca8bcb1ab3112ee4cb923c2597007b3dd 137 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  f7c41b953c970a7f3589fcba3c01b8e5bb9cbcfb 138 main/source/Release
 SHA256:
- ae04d20376ce12644b4bc819193d84bf45112bbda3c263da1d82846fe3b2d42b 1643 main/binary-amd64/Packages
- 67a0527cf2114f7a48725589a2a69f3ba4cfdde968bfce41c14770ebd325c96f 760 main/binary-amd64/Packages.gz
+ a0302ccc7c0ce43a559f8f456af1600edb60a9581276e18e897945b1dd6c9386 1568 main/binary-amd64/Packages
+ bb9e4866d9dcf7daf26f64baf64d3a3cd8d2a0fccdd00e148ec0c693bda44dab 745 main/binary-amd64/Packages.gz
  a31594f474c3187ea6c85eb514d2b6544935e66e9434d1a831c2d29abe640d07 137 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  a7ddb2ba633162d26d9850c38f8ee418ad0e775b158274d9a48ae3357aa994eb 138 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET5bvldKVhmckyu7aBUDnZseJRY0FAl8EnxUACgkQBUDnZseJ
-RY3Dugv+I386V/l80gCaS0jQ/8tDJIwg2IT9WWfyOsDj7Pu4paxPpVhlTbEnLmzA
-uCP/2q6q0H57DwCeQ/csRAEkcwzI9qYbZN1e5QxTpMrekIEXv4pt9e87YM/KfSed
-odY7HaE8+VvmlFgj8ExOOC/d9C07zhr78v+2hCwZ3PW8iIhByqAjC6Dnp5hjgiH3
-fxxqIwZ9T1OJrDSvRkOBl5A71DInTNQ/SFNxfS4LhmzIX3QvXO8oZQWDcBaLR5zW
-w5r60HUKSAB6yMDxrdj1/C3qkce+9t+ggAoq06BOcUVlDDFrvA2L3ShREJ9CRvFo
-6GO7BaX2zYHYG+yag8sbuMHlvNo83fO9ivSSSIFDdc04OoGyLy9fTh2dyijGvSjc
-dN6qG5DU4Rrla1AovSz/3cvCqT4AvtzWycgO1l1cvQBhI3tkfzMa0JRPM5dRLFS3
-E4EbU8QOyI5XpGSH7nFC0/SUOGcEsbbSpeo4BZt53Z6pK0x6AZMLW6hEzK5QXIME
-+m2F2u4b
-=eJbx
+iQGzBAEBCgAdFiEET5bvldKVhmckyu7aBUDnZseJRY0FAl8EyQwACgkQBUDnZseJ
+RY3OcQv/RwdhhXvWobXQkkjc/j9KwuQV26ZEK+4goykieWd/9c8w5H/Bj/J2R2z6
+wMdA3hQe5Vj91UxnOpQrdDFy0aq3ihE6J9O6JDzWa7lxiNEV0FG701aWjZTr+wcA
+59C1KF3hMJ3TonS/NXzweqnO+3q7TEbNN8ICi7LhahGi5nl9aixUcwG7L0tGs5bt
+L25Eo+F05htggXv9PFBynOcnPUCcMqOcEPjMjNxu4hFB+iBJOCkguqbrx86dXmiF
+LNpJ1pHPljMDCzuCyR4HwWkj35hCQXOqsl+Y7UUVhTYEv8zdGrEE0Wx6cD+2sJLH
+Q0P/zKMtNSoAy7TRcujI7j4SEUa5qSIlP4aG3GpDvB9K8z7HscJYJA1a3qCjxIk8
+WEyZaZZqZYw165SFRo8AlyTDCvVUNC6L+b92bK1fEzjx8hk38roPTKW6O+4dK8Jt
+9g19iR4yhLvXGhZMC/DJ3m0OYNQ24jZv5ZIHitL+e1EemoY/NoZCk3g7SsfNGEbl
+wxi1ltXw
+=u1Q6
 -----END PGP SIGNATURE-----
