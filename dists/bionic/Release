@@ -1,11 +1,14 @@
 Origin: Texas RoboCamp 2020
 Label: Texas RoboCamp 2020
 Codename: bionic
-Date: Wed, 08 Jul 2020 20:27:34 UTC
-Architectures: amd64
+Date: Wed, 08 Jul 2020 20:30:04 UTC
+Architectures: i386 amd64
 Components: main
 Description: Packages for Texas RoboCamp 2020
 MD5Sum:
+ a3ad28313437e8876dab98b0540397b4 636 main/binary-i386/Packages
+ b7c9bae2d09aa2655670309b32acff8c 403 main/binary-i386/Packages.gz
+ c79e7e27ed2eab48dc21809ce61ffcba 136 main/binary-i386/Release
  17e751c78ce5cae3dbdcdd738f189319 1563 main/binary-amd64/Packages
  d759b7817dfcd2e026be9cc9aecd10df 741 main/binary-amd64/Packages.gz
  5b133034f7bac69d3793cd6a778ec22e 137 main/binary-amd64/Release
@@ -13,6 +16,9 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  80605aa2627a793c49a26f515429b18f 138 main/source/Release
 SHA1:
+ d2552cbf73bf190830af9d09f5f07a7a13bdba58 636 main/binary-i386/Packages
+ 80ce058c17e5a4bf8367e721c6e666fcdc8de2c7 403 main/binary-i386/Packages.gz
+ c3f1d6de30eb91c2f1167ae4cc8f57bb50ca59a1 136 main/binary-i386/Release
  1f7a178f89ff67d0a8f8cdcbb2b034789769b4b5 1563 main/binary-amd64/Packages
  7b3de5b83a6fb51894924f64cd47cd6f271e4e76 741 main/binary-amd64/Packages.gz
  5b324e1ca8bcb1ab3112ee4cb923c2597007b3dd 137 main/binary-amd64/Release
@@ -20,6 +26,9 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  f7c41b953c970a7f3589fcba3c01b8e5bb9cbcfb 138 main/source/Release
 SHA256:
+ d8290db47480c863ba5ed6d1048c466239a77c9ae672087fcedc83e6e3180045 636 main/binary-i386/Packages
+ e172f58f81a4dfe43c6ecaa8c404a346e17f975ee8206d4f095172ae0a41121b 403 main/binary-i386/Packages.gz
+ 1c5921afa50c48cea93e58bb5cfc7af40127dbb0321000afbed26855e36bdc4b 136 main/binary-i386/Release
  272f21eb4f9c1fc78c8c43a15b344e00395b5325db0207c72d644be85949b709 1563 main/binary-amd64/Packages
  31d5d3b2d0cbe3b58e3b7a12c5bfb07c8accfc43392d4a950e3e19b7e382f5f7 741 main/binary-amd64/Packages.gz
  a31594f474c3187ea6c85eb514d2b6544935e66e9434d1a831c2d29abe640d07 137 main/binary-amd64/Release

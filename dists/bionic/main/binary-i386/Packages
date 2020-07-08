@@ -1,0 +1,15 @@
+Package: ros-melodic-texas-robocamp-full
+Version: 1.3.0bionic
+Architecture: all
+Maintainer: Texas RoboCamp 2020 <hart@cs.utexas.edu>
+Installed-Size: 7
+Depends: ros-melodic-desktop-full, ros-melodic-texas-robocamp, git, terminator, python-catkin-tools, python-rosdep
+Priority: optional
+Section: misc
+Filename: pool/main/r/ros-melodic-texas-robocamp-full/ros-melodic-texas-robocamp-full_1.3.0bionic_all.deb
+Size: 1284
+SHA256: 12f0678afccc0f470e2fabffd48fd2bc60d886798b13bf1d8e7171e1af872c8c
+SHA1: 71330e74721998b9e6ff197aea13a2742ce25f74
+MD5sum: 86fa691701c01f0ff664197ff592deaa
+Description: Recommended packages for Texas RoboCamp 2020
+
