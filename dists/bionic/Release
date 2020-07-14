@@ -1,7 +1,7 @@
 Origin: Texas RoboCamp 2020
 Label: Texas RoboCamp 2020
 Codename: bionic
-Date: Fri, 10 Jul 2020 02:41:41 UTC
+Date: Tue, 14 Jul 2020 21:33:13 UTC
 Architectures: i386 amd64
 Components: main
 Description: Packages for Texas RoboCamp 2020
@@ -9,8 +9,8 @@ MD5Sum:
  a3ad28313437e8876dab98b0540397b4 636 main/binary-i386/Packages
  b7c9bae2d09aa2655670309b32acff8c 403 main/binary-i386/Packages.gz
  c79e7e27ed2eab48dc21809ce61ffcba 136 main/binary-i386/Release
- f786230bb0ef2e751ad9bdf21c710b50 1563 main/binary-amd64/Packages
- d72359a317454583917ffd9b01e6721a 741 main/binary-amd64/Packages.gz
+ ecbe9824cf4a2a8d1ca60fd10342b552 1563 main/binary-amd64/Packages
+ e664add727952324162b9833c1173df7 738 main/binary-amd64/Packages.gz
  5b133034f7bac69d3793cd6a778ec22e 137 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -19,8 +19,8 @@ SHA1:
  d2552cbf73bf190830af9d09f5f07a7a13bdba58 636 main/binary-i386/Packages
  80ce058c17e5a4bf8367e721c6e666fcdc8de2c7 403 main/binary-i386/Packages.gz
  c3f1d6de30eb91c2f1167ae4cc8f57bb50ca59a1 136 main/binary-i386/Release
- 97c68c20f84d8931978d2983fb4d835d620830ff 1563 main/binary-amd64/Packages
- 286b0a7381deee7434d7fec8cbbeea8bed406645 741 main/binary-amd64/Packages.gz
+ 8b4f623a01ede25e6a4bbef3b5a5900edcc33d70 1563 main/binary-amd64/Packages
+ 3c2a5fb46a9f15f73b68d73ba965d3c3c294e114 738 main/binary-amd64/Packages.gz
  5b324e1ca8bcb1ab3112ee4cb923c2597007b3dd 137 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -29,8 +29,8 @@ SHA256:
  d8290db47480c863ba5ed6d1048c466239a77c9ae672087fcedc83e6e3180045 636 main/binary-i386/Packages
  e172f58f81a4dfe43c6ecaa8c404a346e17f975ee8206d4f095172ae0a41121b 403 main/binary-i386/Packages.gz
  1c5921afa50c48cea93e58bb5cfc7af40127dbb0321000afbed26855e36bdc4b 136 main/binary-i386/Release
- 33548a2f76283fc9933d8ad9f45cbf2ae081879d234b428d7e32f2307be9ef74 1563 main/binary-amd64/Packages
- dd4351188750ce726e547a644b92ada127bbe7ee50aeb321cba61f0ec89eb400 741 main/binary-amd64/Packages.gz
+ 479b67469660a6fe5e3258fb5a88cfa8d3d8e8755deb2f17d32dcc0f38f3a864 1563 main/binary-amd64/Packages
+ 1e2cee8294b76b087499a9e4c81db4518613b08f2cdd6031b6bd6646bbf13e76 738 main/binary-amd64/Packages.gz
  a31594f474c3187ea6c85eb514d2b6544935e66e9434d1a831c2d29abe640d07 137 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
