@@ -1,16 +1,16 @@
 Package: ros-melodic-texas-robocamp
-Version: 1.0.4bionic
+Version: 1.0.5bionic
 Architecture: amd64
 Maintainer: Texas RoboCamp 2020 <hart@cs.utexas.edu>
 Installed-Size: 5845
 Depends: libboost-system1.65.1, libc6 (>= 2.14), libgazebo9, libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.31.18), libgtk-3-0 (>= 3.3.16), libignition-common, libncurses5 (>= 6), libopencv-core3.2, libopencv-highgui3.2, libopencv-imgproc3.2, libstdc++6 (>= 5.2), libtinfo5 (>= 6), gazebo9 (>= 9.13.0), libeigen3-dev, libgtk-3-dev, libncurses5-dev, ros-melodic-cv-bridge, ros-melodic-gazebo-ros, ros-melodic-roscpp, ros-melodic-rospy
 Priority: optional
 Section: misc
-Filename: pool/main/r/ros-melodic-texas-robocamp/ros-melodic-texas-robocamp_1.0.4bionic_amd64.deb
-Size: 850108
-SHA256: 1a2d93f84c04edf6e7799ffc74791232c4ddab6f7aad00b45da6d52a93dded72
-SHA1: 0d50e7a96a667e75ad2cd0eee6d752351e4aa771
-MD5sum: 8f012a1aa8743e1ba966479a06ba2330
+Filename: pool/main/r/ros-melodic-texas-robocamp/ros-melodic-texas-robocamp_1.0.5bionic_amd64.deb
+Size: 850084
+SHA256: 8088f189c3f2db19aa77e8c9a7c02775c8ddfe778409102c48f17af492396d10
+SHA1: 64e7007ae25aec521161a81e3b48700769f5164d
+MD5sum: 6782b473c844056c9703eb5f503e10b9
 Description: System code for Texas RoboCamp
 
 Package: ros-melodic-texas-robocamp-full
