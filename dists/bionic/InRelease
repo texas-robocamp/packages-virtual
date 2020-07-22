@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Texas RoboCamp 2020
 Label: Texas RoboCamp 2020
 Codename: bionic
-Date: Sun, 19 Jul 2020 22:44:15 UTC
+Date: Wed, 22 Jul 2020 00:57:55 UTC
 Architectures: i386 amd64
 Components: main
 Description: Packages for Texas RoboCamp 2020
@@ -12,8 +12,8 @@ MD5Sum:
  a3ad28313437e8876dab98b0540397b4 636 main/binary-i386/Packages
  b7c9bae2d09aa2655670309b32acff8c 403 main/binary-i386/Packages.gz
  c79e7e27ed2eab48dc21809ce61ffcba 136 main/binary-i386/Release
- 893a3c895d223ea72cb08f8351c90a21 1563 main/binary-amd64/Packages
- 0590309a4cf2917680ef331fbe7dd310 744 main/binary-amd64/Packages.gz
+ 08ebd7babf474be477405939bd376877 1563 main/binary-amd64/Packages
+ 4fcccac3023410181fc0bb48aeb2cd7d 742 main/binary-amd64/Packages.gz
  5b133034f7bac69d3793cd6a778ec22e 137 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -22,8 +22,8 @@ SHA1:
  d2552cbf73bf190830af9d09f5f07a7a13bdba58 636 main/binary-i386/Packages
  80ce058c17e5a4bf8367e721c6e666fcdc8de2c7 403 main/binary-i386/Packages.gz
  c3f1d6de30eb91c2f1167ae4cc8f57bb50ca59a1 136 main/binary-i386/Release
- 32d1709f6721739a60899a05d06898d531ca4039 1563 main/binary-amd64/Packages
- 2c1fd8de61d4a0e37fb56ae8660fef290c0902d6 744 main/binary-amd64/Packages.gz
+ c03fc7cf191bbd7a39853b93bf79267fc552fcd5 1563 main/binary-amd64/Packages
+ 4f4a506e453bb51ca8f5ae753745dccbbb81e027 742 main/binary-amd64/Packages.gz
  5b324e1ca8bcb1ab3112ee4cb923c2597007b3dd 137 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -32,23 +32,23 @@ SHA256:
  d8290db47480c863ba5ed6d1048c466239a77c9ae672087fcedc83e6e3180045 636 main/binary-i386/Packages
  e172f58f81a4dfe43c6ecaa8c404a346e17f975ee8206d4f095172ae0a41121b 403 main/binary-i386/Packages.gz
  1c5921afa50c48cea93e58bb5cfc7af40127dbb0321000afbed26855e36bdc4b 136 main/binary-i386/Release
- 15d41b3bd577a849f462b92dae2ca33d6c5bffa27d642866404431a03e686fd4 1563 main/binary-amd64/Packages
- 0282648eb768b31df88d87a085388301ebeb3a40d2ec97b8e637ea2b7ee9b7c5 744 main/binary-amd64/Packages.gz
+ 73a340fea8eda853366654730162ffa7cd41fe3646eb53b9bc9468fdde9399dc 1563 main/binary-amd64/Packages
+ d93bfbb9b67afee01eeaba7a6c045e99cbfba3f0f3c8f3880c13548ed54e61ba 742 main/binary-amd64/Packages.gz
  a31594f474c3187ea6c85eb514d2b6544935e66e9434d1a831c2d29abe640d07 137 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  a7ddb2ba633162d26d9850c38f8ee418ad0e775b158274d9a48ae3357aa994eb 138 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET5bvldKVhmckyu7aBUDnZseJRY0FAl8UzMQACgkQBUDnZseJ
-RY1pzwwAsFffHjtE+wkJXNg0E2XaIjI7REFUMn4MzSbnJZJe104RP2+TPMPJxTRQ
-gKye4Hk/0p80so5baMbUpuQNNxzSw2W/s847fyyOMrwTKd3VMjavNpZe9KNyJpUa
-6k51SWKGopkjY7ZtAgOuptVt7naw++If+14kK/fHja+ReUUH95RPWGuPWjK1qGPH
-+fZHh+DswQsnpXkIKlnJHtGNvmEUMioZJcN1MrXoFuNbsa57vbw4qVEeh4wY2/T3
-nukx1k+qFznuvHw5t6aYuqnXaXiZtQb8smsfQW1rBfTccPZGXszz1kQoHsCAYyDW
-v05LYzm9m+ecp5AKAmx1AOAWTenkaxiikzd5Q/su3tfdh6pOa6gMTVbeYEMj2e2w
-cHuWsLQfbTok1b37zamNDrqGKeK3Q4uvmwR927it7d68SQJ2MaCkF14ckK3zwi33
-dYMFL+c/GwthjrLI0QvCN2oM0UUtqPozdQPapRRmlbDPEDhk+2HIpDQkRQWL20SC
-zI2z5UX3
-=fEDn
+iQGzBAEBCgAdFiEET5bvldKVhmckyu7aBUDnZseJRY0FAl8XjxcACgkQBUDnZseJ
+RY1UHwv/Z2rribZL0Qaic3xTQf0GDBfxYcFP8YYUriZlAMZ6enSPHWFSDAv0GwSD
+1K2U1ZpX2QOTS5Wlfcbpn2DDWsk1saemHgiWNuym3XydYbT0nI2G/ON1Iko7uI1d
+Zv/Igays2Ngp/FHvj7HQXvRYjO+rJrwvv8ngcFG/NMPstQymMmg0CFPbWBt8XRMS
+wgQLbL6Q9XZEgPaUNxClXSsiPYI2PctjZ+AOu+slSwkyGDXVyOKXkDvkoI5rHvVe
+EligDNNuS77sa39LIhmNji1C4bj1QlcwHdAlrfGnsbslyTM3zwQM7VPtgdlUOJBJ
+BHdTNzvqPZib8EbOR8E9/QuxR4VejfVkgIyfXdyNC6IGBGEWIqkldpH9wuWGnhJq
+3iVuMBX80m4YR2CpS9v9ElD+s88NRJkUUsO70sdeQK1TKhOL4inrjd08nsEQYkx3
+eAN9UpDY0sRw4jkArRDxJnMi/G0FuujdvqnoFOZjCDgx4xZoGeKhxUstVZWF9IZ5
+FhVab/bV
+=M9Yf
 -----END PGP SIGNATURE-----
